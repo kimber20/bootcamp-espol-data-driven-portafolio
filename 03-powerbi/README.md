@@ -35,4 +35,4 @@ Diseñar un dashboard que permita:
 
 ## 📂 Archivos incluidos
 - Archivo Power BI (`.pbix`)
-- Presentacion de Power Point
+- Archivo DE Reporte
