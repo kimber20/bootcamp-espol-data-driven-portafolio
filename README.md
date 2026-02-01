@@ -3,7 +3,7 @@
 
 ---
 
-## 💡 About Me
+## About Me
 Hi! I'm **Kimberly Elizabeth Heredia Villamar**, a data-driven professional passionate about transforming information into insights that support decision-making.
 
 During the **Bootcamp ESPOL – Data Driven Decision Specialist**, I developed projects using **Excel, SQL (MySQL) and Power BI**, focused on cleaning data, creating KPIs, and building dashboards with meaningful business storytelling.
@@ -23,21 +23,21 @@ During the **Bootcamp ESPOL – Data Driven Decision Specialist**, I developed p
 
 ## 📁 Portfolio Projects
 
-### ✅ 01) Excel – Data Analytics
+### 01) Excel – Data Analytics
 An Excel-based project focused on data cleaning, organization, and summary analysis to support data-driven decision-making.
 
 📌 Folder: `01-excel/`
 
 ---
 
-### ✅ 02) SQL – Database & Query Optimization
+### 02) SQL – Database & Query Optimization
 A MySQL project focused on designing and querying databases using best practices and optimized SQL scripts.
 
 📌 Folder: `02-sql/`
 
 ---
 
-### ✅ 03) Power BI – Marketing Campaign Effectiveness Dashboard
+### 03) Power BI – Marketing Campaign Effectiveness Dashboard
 Interactive dashboard focused on evaluating **marketing campaign performance and customer response**, developed as the **Module 5 Integrative Project (Data Visualization)**.
 
 **Key KPIs:**
