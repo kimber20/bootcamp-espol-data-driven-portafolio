@@ -24,5 +24,5 @@ Se generó un resumen visual y numérico que permite interpretar los datos de fo
 
 ## 📂 Archivos incluidos
 - Archivo Excel del análisis
-- Evidencias (capturas o reporte en PDF)
+- Presentacion de Power point
 
