@@ -49,3 +49,16 @@ Interactive dashboard focused on evaluating **marketing campaign performance and
 - Top revenue campaign: **Cmp 6 (187M)**
 
 📌
+### 04) Business Intelligence – Strategic Data Analysis & Reporting
+Business Intelligence project focused on transforming data into actionable insights through executive dashboards and analytical reporting, supporting strategic decision-making.
+
+The project includes an interactive Power BI presentation and a detailed analytical report focused on identifying trends, KPIs, and business opportunities.
+
+**Key Focus:**
+- Data integration and transformation  
+- KPI design and monitoring  
+- Executive dashboards  
+- Trend analysis  
+- Insight communication  
+
+📌 Folder: `04-business-intelligence/`
